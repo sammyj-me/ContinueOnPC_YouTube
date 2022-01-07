@@ -18,7 +18,7 @@ def application():
     app_password= "YOUR PASSWORD"                      # Enter Your Email password here!!!
 
     # Phone number
-    phone_number = "1YOUR PHONE NUMBER"                   # Enter your Phone number here!!! 1(XXX)-(XXXX) No spaces.
+    phone_number = "1YOUR PHONE NUMBER"                   # Enter your Phone number here!!! 1(XXX)-(XXXX) No spaces or parenthesis.
 
     # Gmail API Hosting: https://www.systoolsgroup.com/imap/
     gmail_host= 'imap.gmail.com'

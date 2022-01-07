@@ -9,6 +9,7 @@ Setup Steps:
 3. Fill out your email and phone number in the code.
         - it's recommended to create a separate email to process all the links you'll send.
 4. Change email permissions to allow access *For Less Secure Apps* so the python script can log in to your email of choice.
+        
         - https://support.google.com/accounts/answer/6010255?hl=en
 6. Change autoplay permissions in your browser.
         - https://www.makeuseof.com/how-to-block-allow-autoplay-firefox/

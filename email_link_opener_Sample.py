@@ -7,9 +7,6 @@ import urllib.request
 
 from plyer import notification
 
-def words_in_string(word_list, a_string):
-    return set(word_list).intersection(a_string.split())
-
 def application():
     #credentials
     username ="YOUR EMAIL HERE@gmail.com"        # Enter your Email username here!!!
